@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamadarrizwan
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Manual testing
+- 🐛 QA
+- 🌱 On the Java Im Coming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jamadarrrizwan@123/ 9028662723
 
