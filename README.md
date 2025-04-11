@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamadarrizwan
 - 🐛 QA
-- 🌱 On the Java Im Coming
+- 🧑‍💻Java Selenium
 -  📫 How to reach me jamadarrrizwan@123/ 9028662723
 
 <!---
